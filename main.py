@@ -5,7 +5,7 @@ import read, operation, write
 print("\n")
 print("\n")
 print("\t\t\t\t\t\t   ---------------------")
-print("\t\t\t\t\t\t     Swagat Electronics ")
+print("\t\t\t\t\t\t     Shreya Electronics ")
 print("\t\t\t\t\t\t   ---------------------")
 print("\n")
 print("\t\t\t\t\t  _________________________________________")
